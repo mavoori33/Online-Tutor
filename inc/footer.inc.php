@@ -5,7 +5,7 @@
 				<div class="footer one">
 					<h3>More About Company</h3>
 					<p>My first Platform.</p>
-					<p class="adam">- Mohsin, CEO</p>
+					<p class="adam">-Vignan</p>
 					<div class="clear"></div>
 				</div>
 				<div class="footer two">
@@ -18,8 +18,8 @@
 				<div class="footer three">
 					<h3>Contact Information</h3>
 					<ul>
-						<li>0123456789</li>
-						<li><a href="mailto:info@example.com">contact@example.com</a></li>
+						<li>6305258393</li>
+						<li><a href="mailto:info@example.com">mavooriakhil2002@gmail.com</a></li>
 					</ul>
 				</div>
 				<div class="clear"></div>
